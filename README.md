@@ -3,10 +3,10 @@
 ### My GitHub Stats
 
 <a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=buefy" />
 </a>
 <a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=graywhite&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=buefy&include_all_commits=true" />
 </a>
 
 <!--
