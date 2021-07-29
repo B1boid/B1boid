@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## My GitHub Stats
+### My GitHub Stats
 
 <a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=graywhite" />
 </a>
 <a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=solarized-dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=graywhite&include_all_commits=true" />
 </a>
 
 <!--
