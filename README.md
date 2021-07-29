@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-### My GitHub Stats
 
-<a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=buefy" />
-</a>
-<a href="https://github.com/b1boid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=buefy&include_all_commits=true" />
-</a>
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B1boid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1boid&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue"/>
+</p>
 
 <!--
 **B1boid/B1boid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
