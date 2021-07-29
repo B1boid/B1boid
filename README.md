@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## My GitHub Stats
+
+<a href="https://github.com/b1boid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1boid&theme=solarized-dark" />
+</a>
+<a href="https://github.com/b1boid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b1boid&show_icons=true&theme=solarized-dark&include_all_commits=true" />
+</a>
+
 <!--
 **B1boid/B1boid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
